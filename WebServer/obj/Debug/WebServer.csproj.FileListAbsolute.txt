@@ -1,0 +1,6 @@
+C:\Users\Luka\Documents\Visual Studio 2012\Projects\WebServer\WebServer\bin\Debug\WebServer.exe.config
+C:\Users\Luka\Documents\Visual Studio 2012\Projects\WebServer\WebServer\bin\Debug\WebServer.exe
+C:\Users\Luka\Documents\Visual Studio 2012\Projects\WebServer\WebServer\bin\Debug\WebServer.pdb
+C:\Users\Luka\Documents\Visual Studio 2012\Projects\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\Luka\Documents\Visual Studio 2012\Projects\WebServer\WebServer\obj\Debug\WebServer.exe
+C:\Users\Luka\Documents\Visual Studio 2012\Projects\WebServer\WebServer\obj\Debug\WebServer.pdb
