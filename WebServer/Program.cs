@@ -24,7 +24,7 @@ namespace WebServer
 				var request = context.Request;
 				var response = context.Response;
 
-				string responseString = "<html><body> Does it work?!</body></html>";
+				string responseString = "<html><body>This was auto-deployed</body></html>";
 				byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
 				response.ContentLength64 = buffer.Length;
 				var output = response.OutputStream;
